@@ -1,2 +1,3 @@
 # Load-Images
-Load images using async
+
+Load images using Promises
