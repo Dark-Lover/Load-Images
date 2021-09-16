@@ -35,3 +35,12 @@ body {
   width: 80rem;
   margin: 4rem;
 }
+
+.parallel {
+  border: 10px solid white;
+  width: 30wv;
+}
+
+img.parallel {
+  width: 25vw;
+}
